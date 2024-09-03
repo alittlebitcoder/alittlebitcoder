@@ -1,3 +1,1 @@
-<--
-<img src="https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/elaborate/JoeyBling.md?raw=true>
--->
+[![alittlebitcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=alittlebitcoder)](https://github.com/alittlebitcoder/alittlebitcoder)
